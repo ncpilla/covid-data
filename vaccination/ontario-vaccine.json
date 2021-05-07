@@ -1,1 +1,259 @@
-{"help": "https://data.ontario.ca/api/3/action/help_show?name=datastore_search", "success": true, "result": {"include_total": true, "resource_id": "8a89caa9-511c-4568-af89-7f2174b4378c", "fields": [{"type": "int", "id": "_id"}, {"info": {"notes": "", "type_override": "timestamp", "label": ""}, "type": "timestamp", "id": "report_date"}, {"info": {"notes": "", "type_override": "numeric", "label": ""}, "type": "numeric", "id": "previous_day_doses_administered"}, {"info": {"notes": "", "type_override": "numeric", "label": ""}, "type": "numeric", "id": "total_doses_administered"}, {"info": {"notes": "", "type_override": "numeric", "label": ""}, "type": "numeric", "id": "total_doses_in_fully_vaccinated_individuals"}, {"info": {"notes": "", "type_override": "numeric", "label": ""}, "type": "numeric", "id": "total_individuals_fully_vaccinated"}], "records_format": "objects", "records": [{"_id":1,"report_date":"2020-12-24T00:00:00","previous_day_doses_administered":null,"total_doses_administered":10756,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":2,"report_date":"2020-12-30T00:00:00","previous_day_doses_administered":4595,"total_doses_administered":18603,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":3,"report_date":"2020-12-31T00:00:00","previous_day_doses_administered":5463,"total_doses_administered":23502,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":4,"report_date":"2021-01-01T00:00:00","previous_day_doses_administered":5415,"total_doses_administered":28887,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":5,"report_date":"2021-01-02T00:00:00","previous_day_doses_administered":4305,"total_doses_administered":33191,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":6,"report_date":"2021-01-03T00:00:00","previous_day_doses_administered":4361,"total_doses_administered":37551,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":7,"report_date":"2021-01-04T00:00:00","previous_day_doses_administered":4808,"total_doses_administered":42419,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":8,"report_date":"2021-01-05T00:00:00","previous_day_doses_administered":7607,"total_doses_administered":50030,"total_doses_in_fully_vaccinated_individuals":null,"total_individuals_fully_vaccinated":null},{"_id":9,"report_date":"2021-01-06T00:00:00","previous_day_doses_administered":10350,"total_doses_administered":60380,"total_doses_in_fully_vaccinated_individuals":860,"total_individuals_fully_vaccinated":430},{"_id":10,"report_date":"2021-01-07T00:00:00","previous_day_doses_administered":12251,"total_doses_administered":72631,"total_doses_in_fully_vaccinated_individuals":2173,"total_individuals_fully_vaccinated":1087},{"_id":11,"report_date":"2021-01-08T00:00:00","previous_day_doses_administered":14932,"total_doses_administered":87563,"total_doses_in_fully_vaccinated_individuals":4053,"total_individuals_fully_vaccinated":2027},{"_id":12,"report_date":"2021-01-09T00:00:00","previous_day_doses_administered":15700,"total_doses_administered":103263,"total_doses_in_fully_vaccinated_individuals":5880,"total_individuals_fully_vaccinated":2940},{"_id":13,"report_date":"2021-01-10T00:00:00","previous_day_doses_administered":9983,"total_doses_administered":113246,"total_doses_in_fully_vaccinated_individuals":5884,"total_individuals_fully_vaccinated":2942},{"_id":14,"report_date":"2021-01-11T00:00:00","previous_day_doses_administered":8859,"total_doses_administered":122105,"total_doses_in_fully_vaccinated_individuals":5884,"total_individuals_fully_vaccinated":2942},{"_id":15,"report_date":"2021-01-12T00:00:00","previous_day_doses_administered":11448,"total_doses_administered":133553,"total_doses_in_fully_vaccinated_individuals":6046,"total_individuals_fully_vaccinated":3023},{"_id":16,"report_date":"2021-01-13T00:00:00","previous_day_doses_administered":11231,"total_doses_administered":144784,"total_doses_in_fully_vaccinated_individuals":8778,"total_individuals_fully_vaccinated":4389},{"_id":17,"report_date":"2021-01-14T00:00:00","previous_day_doses_administered":14237,"total_doses_administered":159021,"total_doses_in_fully_vaccinated_individuals":13293,"total_individuals_fully_vaccinated":6647},{"_id":18,"report_date":"2021-01-15T00:00:00","previous_day_doses_administered":15609,"total_doses_administered":174630,"total_doses_in_fully_vaccinated_individuals":17094,"total_individuals_fully_vaccinated":8547},{"_id":19,"report_date":"2021-01-16T00:00:00","previous_day_doses_administered":14460,"total_doses_administered":189090,"total_doses_in_fully_vaccinated_individuals":19333,"total_individuals_fully_vaccinated":9667},{"_id":20,"report_date":"2021-01-17T00:00:00","previous_day_doses_administered":11007,"total_doses_administered":200097,"total_doses_in_fully_vaccinated_individuals":21714,"total_individuals_fully_vaccinated":10857},{"_id":21,"report_date":"2021-01-18T00:00:00","previous_day_doses_administered":9691,"total_doses_administered":209788,"total_doses_in_fully_vaccinated_individuals":21752,"total_individuals_fully_vaccinated":10876},{"_id":22,"report_date":"2021-01-19T00:00:00","previous_day_doses_administered":14346,"total_doses_administered":224134,"total_doses_in_fully_vaccinated_individuals":25609,"total_individuals_fully_vaccinated":12805},{"_id":23,"report_date":"2021-01-20T00:00:00","previous_day_doses_administered":13784,"total_doses_administered":237918,"total_doses_in_fully_vaccinated_individuals":32361,"total_individuals_fully_vaccinated":16181},{"_id":24,"report_date":"2021-01-21T00:00:00","previous_day_doses_administered":15899,"total_doses_administered":253817,"total_doses_in_fully_vaccinated_individuals":40225,"total_individuals_fully_vaccinated":20113},{"_id":25,"report_date":"2021-01-22T00:00:00","previous_day_doses_administered":11168,"total_doses_administered":264985,"total_doses_in_fully_vaccinated_individuals":49292,"total_individuals_fully_vaccinated":24646},{"_id":26,"report_date":"2021-01-23T00:00:00","previous_day_doses_administered":11161,"total_doses_administered":276146,"total_doses_in_fully_vaccinated_individuals":57907,"total_individuals_fully_vaccinated":28954},{"_id":27,"report_date":"2021-01-24T00:00:00","previous_day_doses_administered":4427,"total_doses_administered":280573,"total_doses_in_fully_vaccinated_individuals":62881,"total_individuals_fully_vaccinated":31441},{"_id":28,"report_date":"2021-01-25T00:00:00","previous_day_doses_administered":5537,"total_doses_administered":286110,"total_doses_in_fully_vaccinated_individuals":71256,"total_individuals_fully_vaccinated":35628},{"_id":29,"report_date":"2021-01-26T00:00:00","previous_day_doses_administered":9707,"total_doses_administered":295817,"total_doses_in_fully_vaccinated_individuals":83285,"total_individuals_fully_vaccinated":41643},{"_id":30,"report_date":"2021-01-27T00:00:00","previous_day_doses_administered":9513,"total_doses_administered":305330,"total_doses_in_fully_vaccinated_individuals":96459,"total_individuals_fully_vaccinated":48230},{"_id":31,"report_date":"2021-01-28T00:00:00","previous_day_doses_administered":11910,"total_doses_administered":317240,"total_doses_in_fully_vaccinated_individuals":110571,"total_individuals_fully_vaccinated":55286},{"_id":32,"report_date":"2021-01-29T00:00:00","previous_day_doses_administered":10215,"total_doses_administered":327455,"total_doses_in_fully_vaccinated_individuals":123357,"total_individuals_fully_vaccinated":61679},{"_id":33,"report_date":"2021-01-30T00:00:00","previous_day_doses_administered":9373,"total_doses_administered":336828,"total_doses_in_fully_vaccinated_individuals":135574,"total_individuals_fully_vaccinated":67787},{"_id":34,"report_date":"2021-01-31T00:00:00","previous_day_doses_administered":2816,"total_doses_administered":339644,"total_doses_in_fully_vaccinated_individuals":137698,"total_individuals_fully_vaccinated":68849},{"_id":35,"report_date":"2021-02-01T00:00:00","previous_day_doses_administered":2256,"total_doses_administered":341900,"total_doses_in_fully_vaccinated_individuals":140585,"total_individuals_fully_vaccinated":70293},{"_id":36,"report_date":"2021-02-02T00:00:00","previous_day_doses_administered":2715,"total_doses_administered":344615,"total_doses_in_fully_vaccinated_individuals":144113,"total_individuals_fully_vaccinated":72057},{"_id":37,"report_date":"2021-02-03T00:00:00","previous_day_doses_administered":3716,"total_doses_administered":348331,"total_doses_in_fully_vaccinated_individuals":149987,"total_individuals_fully_vaccinated":74994},{"_id":38,"report_date":"2021-02-04T00:00:00","previous_day_doses_administered":6724,"total_doses_administered":355055,"total_doses_in_fully_vaccinated_individuals":161954,"total_individuals_fully_vaccinated":80977},{"_id":39,"report_date":"2021-02-05T00:00:00","previous_day_doses_administered":7694,"total_doses_administered":362749,"total_doses_in_fully_vaccinated_individuals":175662,"total_individuals_fully_vaccinated":87831},{"_id":40,"report_date":"2021-02-06T00:00:00","previous_day_doses_administered":9917,"total_doses_administered":372666,"total_doses_in_fully_vaccinated_individuals":193146,"total_individuals_fully_vaccinated":96573},{"_id":41,"report_date":"2021-02-07T00:00:00","previous_day_doses_administered":6518,"total_doses_administered":379184,"total_doses_in_fully_vaccinated_individuals":203487,"total_individuals_fully_vaccinated":101744},{"_id":42,"report_date":"2021-02-08T00:00:00","previous_day_doses_administered":6987,"total_doses_administered":386171,"total_doses_in_fully_vaccinated_individuals":212326,"total_individuals_fully_vaccinated":106163},{"_id":43,"report_date":"2021-02-09T00:00:00","previous_day_doses_administered":12462,"total_doses_administered":398633,"total_doses_in_fully_vaccinated_individuals":231058,"total_individuals_fully_vaccinated":115529},{"_id":44,"report_date":"2021-02-10T00:00:00","previous_day_doses_administered":13486,"total_doses_administered":412119,"total_doses_in_fully_vaccinated_individuals":251449,"total_individuals_fully_vaccinated":125725},{"_id":45,"report_date":"2021-02-11T00:00:00","previous_day_doses_administered":14717,"total_doses_administered":426836,"total_doses_in_fully_vaccinated_individuals":273975,"total_individuals_fully_vaccinated":136988},{"_id":46,"report_date":"2021-02-12T00:00:00","previous_day_doses_administered":15605,"total_doses_administered":442441,"total_doses_in_fully_vaccinated_individuals":302563,"total_individuals_fully_vaccinated":151282},{"_id":47,"report_date":"2021-02-13T00:00:00","previous_day_doses_administered":14506,"total_doses_administered":456947,"total_doses_in_fully_vaccinated_individuals":328614,"total_individuals_fully_vaccinated":164307},{"_id":48,"report_date":"2021-02-14T00:00:00","previous_day_doses_administered":10679,"total_doses_administered":467626,"total_doses_in_fully_vaccinated_individuals":349286,"total_individuals_fully_vaccinated":174643},{"_id":49,"report_date":"2021-02-15T00:00:00","previous_day_doses_administered":7698,"total_doses_administered":475324,"total_doses_in_fully_vaccinated_individuals":364274,"total_individuals_fully_vaccinated":182137},{"_id":50,"report_date":"2021-02-16T00:00:00","previous_day_doses_administered":5053,"total_doses_administered":480377,"total_doses_in_fully_vaccinated_individuals":373867,"total_individuals_fully_vaccinated":186934},{"_id":51,"report_date":"2021-02-17T00:00:00","previous_day_doses_administered":9107,"total_doses_administered":489484,"total_doses_in_fully_vaccinated_individuals":390731,"total_individuals_fully_vaccinated":195366},{"_id":52,"report_date":"2021-02-18T00:00:00","previous_day_doses_administered":12383,"total_doses_administered":501867,"total_doses_in_fully_vaccinated_individuals":411604,"total_individuals_fully_vaccinated":205802},{"_id":53,"report_date":"2021-02-19T00:00:00","previous_day_doses_administered":16967,"total_doses_administered":518834,"total_doses_in_fully_vaccinated_individuals":435429,"total_individuals_fully_vaccinated":217715},{"_id":54,"report_date":"2021-02-20T00:00:00","previous_day_doses_administered":21295,"total_doses_administered":540129,"total_doses_in_fully_vaccinated_individuals":458301,"total_individuals_fully_vaccinated":229151},{"_id":55,"report_date":"2021-02-21T00:00:00","previous_day_doses_administered":16404,"total_doses_administered":556533,"total_doses_in_fully_vaccinated_individuals":471843,"total_individuals_fully_vaccinated":235922},{"_id":56,"report_date":"2021-02-22T00:00:00","previous_day_doses_administered":12922,"total_doses_administered":569455,"total_doses_in_fully_vaccinated_individuals":481337,"total_individuals_fully_vaccinated":240669},{"_id":57,"report_date":"2021-02-23T00:00:00","previous_day_doses_administered":16252,"total_doses_administered":585707,"total_doses_in_fully_vaccinated_individuals":494083,"total_individuals_fully_vaccinated":247042},{"_id":58,"report_date":"2021-02-24T00:00:00","previous_day_doses_administered":17141,"total_doses_administered":602848,"total_doses_in_fully_vaccinated_individuals":503180,"total_individuals_fully_vaccinated":251590},{"_id":59,"report_date":"2021-02-25T00:00:00","previous_day_doses_administered":19112,"total_doses_administered":621960,"total_doses_in_fully_vaccinated_individuals":510897,"total_individuals_fully_vaccinated":255449},{"_id":60,"report_date":"2021-02-26T00:00:00","previous_day_doses_administered":21805,"total_doses_administered":643765,"total_doses_in_fully_vaccinated_individuals":516028,"total_individuals_fully_vaccinated":258014},{"_id":61,"report_date":"2021-02-27T00:00:00","previous_day_doses_administered":24339,"total_doses_administered":668104,"total_doses_in_fully_vaccinated_individuals":521943,"total_individuals_fully_vaccinated":260972},{"_id":62,"report_date":"2021-02-28T00:00:00","previous_day_doses_administered":19167,"total_doses_administered":687271,"total_doses_in_fully_vaccinated_individuals":524205,"total_individuals_fully_vaccinated":262103},{"_id":63,"report_date":"2021-03-01T00:00:00","previous_day_doses_administered":17424,"total_doses_administered":704695,"total_doses_in_fully_vaccinated_individuals":526427,"total_individuals_fully_vaccinated":263214},{"_id":64,"report_date":"2021-03-02T00:00:00","previous_day_doses_administered":22326,"total_doses_administered":727021,"total_doses_in_fully_vaccinated_individuals":529792,"total_individuals_fully_vaccinated":264896},{"_id":65,"report_date":"2021-03-03T00:00:00","previous_day_doses_administered":27398,"total_doses_administered":754419,"total_doses_in_fully_vaccinated_individuals":533420,"total_individuals_fully_vaccinated":266710},{"_id":66,"report_date":"2021-03-04T00:00:00","previous_day_doses_administered":30409,"total_doses_administered":784828,"total_doses_in_fully_vaccinated_individuals":536235,"total_individuals_fully_vaccinated":268118},{"_id":67,"report_date":"2021-03-05T00:00:00","previous_day_doses_administered":35886,"total_doses_administered":820714,"total_doses_in_fully_vaccinated_individuals":538126,"total_individuals_fully_vaccinated":269063},{"_id":68,"report_date":"2021-03-06T00:00:00","previous_day_doses_administered":39698,"total_doses_administered":860412,"total_doses_in_fully_vaccinated_individuals":541250,"total_individuals_fully_vaccinated":270625},{"_id":69,"report_date":"2021-03-07T00:00:00","previous_day_doses_administered":30192,"total_doses_administered":890604,"total_doses_in_fully_vaccinated_individuals":543614,"total_individuals_fully_vaccinated":271807},{"_id":70,"report_date":"2021-03-08T00:00:00","previous_day_doses_administered":21882,"total_doses_administered":912486,"total_doses_in_fully_vaccinated_individuals":547352,"total_individuals_fully_vaccinated":273676},{"_id":71,"report_date":"2021-03-09T00:00:00","previous_day_doses_administered":31047,"total_doses_administered":943533,"total_doses_in_fully_vaccinated_individuals":552385,"total_individuals_fully_vaccinated":276193},{"_id":72,"report_date":"2021-03-10T00:00:00","previous_day_doses_administered":35264,"total_doses_administered":978797,"total_doses_in_fully_vaccinated_individuals":558407,"total_individuals_fully_vaccinated":279204},{"_id":73,"report_date":"2021-03-11T00:00:00","previous_day_doses_administered":40610,"total_doses_administered":1019407,"total_doses_in_fully_vaccinated_individuals":563428,"total_individuals_fully_vaccinated":281714},{"_id":74,"report_date":"2021-03-12T00:00:00","previous_day_doses_administered":43503,"total_doses_administered":1062910,"total_doses_in_fully_vaccinated_individuals":565495,"total_individuals_fully_vaccinated":282748},{"_id":75,"report_date":"2021-03-13T00:00:00","previous_day_doses_administered":53586,"total_doses_administered":1116496,"total_doses_in_fully_vaccinated_individuals":569371,"total_individuals_fully_vaccinated":284686},{"_id":76,"report_date":"2021-03-14T00:00:00","previous_day_doses_administered":41859,"total_doses_administered":1158355,"total_doses_in_fully_vaccinated_individuals":571229,"total_individuals_fully_vaccinated":285615},{"_id":77,"report_date":"2021-03-15T00:00:00","previous_day_doses_administered":33198,"total_doses_administered":1191553,"total_doses_in_fully_vaccinated_individuals":574566,"total_individuals_fully_vaccinated":287283},{"_id":78,"report_date":"2021-03-16T00:00:00","previous_day_doses_administered":51579,"total_doses_administered":1243132,"total_doses_in_fully_vaccinated_individuals":577836,"total_individuals_fully_vaccinated":288918},{"_id":79,"report_date":"2021-03-17T00:00:00","previous_day_doses_administered":58202,"total_doses_administered":1301334,"total_doses_in_fully_vaccinated_individuals":581318,"total_individuals_fully_vaccinated":290659},{"_id":80,"report_date":"2021-03-18T00:00:00","previous_day_doses_administered":58119,"total_doses_administered":1359453,"total_doses_in_fully_vaccinated_individuals":584537,"total_individuals_fully_vaccinated":292269},{"_id":81,"report_date":"2021-03-19T00:00:00","previous_day_doses_administered":61146,"total_doses_administered":1420599,"total_doses_in_fully_vaccinated_individuals":589498,"total_individuals_fully_vaccinated":294749},{"_id":82,"report_date":"2021-03-20T00:00:00","previous_day_doses_administered":60283,"total_doses_administered":1480882,"total_doses_in_fully_vaccinated_individuals":594267,"total_individuals_fully_vaccinated":297134},{"_id":83,"report_date":"2021-03-21T00:00:00","previous_day_doses_administered":40823,"total_doses_administered":1521705,"total_doses_in_fully_vaccinated_individuals":597098,"total_individuals_fully_vaccinated":298549},{"_id":84,"report_date":"2021-03-22T00:00:00","previous_day_doses_administered":31335,"total_doses_administered":1553040,"total_doses_in_fully_vaccinated_individuals":598594,"total_individuals_fully_vaccinated":299297},{"_id":85,"report_date":"2021-03-23T00:00:00","previous_day_doses_administered":50659,"total_doses_administered":1603699,"total_doses_in_fully_vaccinated_individuals":602086,"total_individuals_fully_vaccinated":301043},{"_id":86,"report_date":"2021-03-24T00:00:00","previous_day_doses_administered":72451,"total_doses_administered":1676150,"total_doses_in_fully_vaccinated_individuals":605328,"total_individuals_fully_vaccinated":302664},{"_id":87,"report_date":"2021-03-25T00:00:00","previous_day_doses_administered":79446,"total_doses_administered":1755596,"total_doses_in_fully_vaccinated_individuals":608771,"total_individuals_fully_vaccinated":304386},{"_id":88,"report_date":"2021-03-26T00:00:00","previous_day_doses_administered":82996,"total_doses_administered":1838592,"total_doses_in_fully_vaccinated_individuals":612746,"total_individuals_fully_vaccinated":306373},{"_id":89,"report_date":"2021-03-27T00:00:00","previous_day_doses_administered":77740,"total_doses_administered":1916332,"total_doses_in_fully_vaccinated_individuals":616602,"total_individuals_fully_vaccinated":308301},{"_id":90,"report_date":"2021-03-28T00:00:00","previous_day_doses_administered":64950,"total_doses_administered":1981282,"total_doses_in_fully_vaccinated_individuals":618570,"total_individuals_fully_vaccinated":309285},{"_id":91,"report_date":"2021-03-29T00:00:00","previous_day_doses_administered":50453,"total_doses_administered":2031735,"total_doses_in_fully_vaccinated_individuals":622495,"total_individuals_fully_vaccinated":311248},{"_id":92,"report_date":"2021-03-30T00:00:00","previous_day_doses_administered":70645,"total_doses_administered":2102380,"total_doses_in_fully_vaccinated_individuals":627778,"total_individuals_fully_vaccinated":313889},{"_id":93,"report_date":"2021-03-31T00:00:00","previous_day_doses_administered":89873,"total_doses_administered":2192253,"total_doses_in_fully_vaccinated_individuals":631639,"total_individuals_fully_vaccinated":315820},{"_id":94,"report_date":"2021-04-01T00:00:00","previous_day_doses_administered":84060,"total_doses_administered":2276313,"total_doses_in_fully_vaccinated_individuals":635430,"total_individuals_fully_vaccinated":317715},{"_id":95,"report_date":"2021-04-02T00:00:00","previous_day_doses_administered":88183,"total_doses_administered":2364496,"total_doses_in_fully_vaccinated_individuals":640700,"total_individuals_fully_vaccinated":320350},{"_id":96,"report_date":"2021-04-03T00:00:00","previous_day_doses_administered":59567,"total_doses_administered":2424063,"total_doses_in_fully_vaccinated_individuals":642937,"total_individuals_fully_vaccinated":321469},{"_id":97,"report_date":"2021-04-04T00:00:00","previous_day_doses_administered":69125,"total_doses_administered":2493188,"total_doses_in_fully_vaccinated_individuals":644095,"total_individuals_fully_vaccinated":322048},{"_id":98,"report_date":"2021-04-05T00:00:00","previous_day_doses_administered":52452,"total_doses_administered":2545640,"total_doses_in_fully_vaccinated_individuals":644393,"total_individuals_fully_vaccinated":322197},{"_id":99,"report_date":"2021-04-06T00:00:00","previous_day_doses_administered":76199,"total_doses_administered":2621839,"total_doses_in_fully_vaccinated_individuals":646295,"total_individuals_fully_vaccinated":323148},{"_id":100,"report_date":"2021-04-07T00:00:00","previous_day_doses_administered":104382,"total_doses_administered":2726221,"total_doses_in_fully_vaccinated_individuals":649566,"total_individuals_fully_vaccinated":324783},{"_id":101,"report_date":"2021-04-08T00:00:00","previous_day_doses_administered":108563,"total_doses_administered":2834784,"total_doses_in_fully_vaccinated_individuals":652719,"total_individuals_fully_vaccinated":326360},{"_id":102,"report_date":"2021-04-09T00:00:00","previous_day_doses_administered":105382,"total_doses_administered":2940166,"total_doses_in_fully_vaccinated_individuals":657719,"total_individuals_fully_vaccinated":328598},{"_id":103,"report_date":"2021-04-10T00:00:00","previous_day_doses_administered":104783,"total_doses_administered":3044949,"total_doses_in_fully_vaccinated_individuals":661963,"total_individuals_fully_vaccinated":330982},{"_id":104,"report_date":"2021-04-11T00:00:00","previous_day_doses_administered":94794,"total_doses_administered":3139743,"total_doses_in_fully_vaccinated_individuals":666299,"total_individuals_fully_vaccinated":333150},{"_id":105,"report_date":"2021-04-12T00:00:00","previous_day_doses_administered":74722,"total_doses_administered":3214465,"total_doses_in_fully_vaccinated_individuals":666838,"total_individuals_fully_vaccinated":333419},{"_id":106,"report_date":"2021-04-13T00:00:00","previous_day_doses_administered":95692,"total_doses_administered":3310157,"total_doses_in_fully_vaccinated_individuals":670524,"total_individuals_fully_vaccinated":335262},{"_id":107,"report_date":"2021-04-14T00:00:00","previous_day_doses_administered":112817,"total_doses_administered":3422974,"total_doses_in_fully_vaccinated_individuals":674411,"total_individuals_fully_vaccinated":337206},{"_id":108,"report_date":"2021-04-15T00:00:00","previous_day_doses_administered":105430,"total_doses_administered":3528404,"total_doses_in_fully_vaccinated_individuals":678981,"total_individuals_fully_vaccinated":339491},{"_id":109,"report_date":"2021-04-16T00:00:00","previous_day_doses_administered":115634,"total_doses_administered":3644038,"total_doses_in_fully_vaccinated_individuals":683866,"total_individuals_fully_vaccinated":341933},{"_id":110,"report_date":"2021-04-17T00:00:00","previous_day_doses_administered":107278,"total_doses_administered":3751316,"total_doses_in_fully_vaccinated_individuals":688488,"total_individuals_fully_vaccinated":344244},{"_id":111,"report_date":"2021-04-18T00:00:00","previous_day_doses_administered":86565,"total_doses_administered":3837881,"total_doses_in_fully_vaccinated_individuals":690620,"total_individuals_fully_vaccinated":345310},{"_id":112,"report_date":"2021-04-19T00:00:00","previous_day_doses_administered":66897,"total_doses_administered":3904778,"total_doses_in_fully_vaccinated_individuals":692010,"total_individuals_fully_vaccinated":346005},{"_id":113,"report_date":"2021-04-20T00:00:00","previous_day_doses_administered":90409,"total_doses_administered":3995187,"total_doses_in_fully_vaccinated_individuals":695194,"total_individuals_fully_vaccinated":347597},{"_id":114,"report_date":"2021-04-21T00:00:00","previous_day_doses_administered":136695,"total_doses_administered":4131882,"total_doses_in_fully_vaccinated_individuals":698791,"total_individuals_fully_vaccinated":349396},{"_id":115,"report_date":"2021-04-22T00:00:00","previous_day_doses_administered":134920,"total_doses_administered":4266802,"total_doses_in_fully_vaccinated_individuals":702707,"total_individuals_fully_vaccinated":351354},{"_id":116,"report_date":"2021-04-23T00:00:00","previous_day_doses_administered":133872,"total_doses_administered":4400674,"total_doses_in_fully_vaccinated_individuals":710416,"total_individuals_fully_vaccinated":355208},{"_id":117,"report_date":"2021-04-24T00:00:00","previous_day_doses_administered":126694,"total_doses_administered":4527368,"total_doses_in_fully_vaccinated_individuals":717552,"total_individuals_fully_vaccinated":358776},{"_id":118,"report_date":"2021-04-25T00:00:00","previous_day_doses_administered":99535,"total_doses_administered":4626903,"total_doses_in_fully_vaccinated_individuals":720708,"total_individuals_fully_vaccinated":360354},{"_id":119,"report_date":"2021-04-26T00:00:00","previous_day_doses_administered":69308,"total_doses_administered":4696211,"total_doses_in_fully_vaccinated_individuals":722332,"total_individuals_fully_vaccinated":361166},{"_id":120,"report_date":"2021-04-27T00:00:00","previous_day_doses_administered":94819,"total_doses_administered":4791030,"total_doses_in_fully_vaccinated_individuals":725126,"total_individuals_fully_vaccinated":362563},{"_id":121,"report_date":"2021-04-28T00:00:00","previous_day_doses_administered":116173,"total_doses_administered":4907203,"total_doses_in_fully_vaccinated_individuals":730332,"total_individuals_fully_vaccinated":365166},{"_id":122,"report_date":"2021-04-29T00:00:00","previous_day_doses_administered":120567,"total_doses_administered":5027770,"total_doses_in_fully_vaccinated_individuals":736806,"total_individuals_fully_vaccinated":368403},{"_id":123,"report_date":"2021-04-30T00:00:00","previous_day_doses_administered":112214,"total_doses_administered":5139984,"total_doses_in_fully_vaccinated_individuals":742220,"total_individuals_fully_vaccinated":371110},{"_id":124,"report_date":"2021-05-01T00:00:00","previous_day_doses_administered":107700,"total_doses_administered":5247684,"total_doses_in_fully_vaccinated_individuals":747118,"total_individuals_fully_vaccinated":373559},{"_id":125,"report_date":"2021-05-02T00:00:00","previous_day_doses_administered":76685,"total_doses_administered":5324369,"total_doses_in_fully_vaccinated_individuals":750560,"total_individuals_fully_vaccinated":375280},{"_id":126,"report_date":"2021-05-03T00:00:00","previous_day_doses_administered":53880,"total_doses_administered":5378249,"total_doses_in_fully_vaccinated_individuals":751810,"total_individuals_fully_vaccinated":375905},{"_id":127,"report_date":"2021-05-04T00:00:00","previous_day_doses_administered":88871,"total_doses_administered":5467120,"total_doses_in_fully_vaccinated_individuals":756170,"total_individuals_fully_vaccinated":378085},{"_id":128,"report_date":"2021-05-05T00:00:00","previous_day_doses_administered":132603,"total_doses_administered":5599723,"total_doses_in_fully_vaccinated_individuals":762246,"total_individuals_fully_vaccinated":381123},{"_id":129,"report_date":"2021-05-06T00:00:00","previous_day_doses_administered":141038,"total_doses_administered":5740761,"total_doses_in_fully_vaccinated_individuals":769178,"total_individuals_fully_vaccinated":384589}], "limit": 1000, "_links": {"start": "/api/3/action/datastore_search?limit=1000&resource_id=8a89caa9-511c-4568-af89-7f2174b4378c", "next": "/api/3/action/datastore_search?offset=1000&limit=1000&resource_id=8a89caa9-511c-4568-af89-7f2174b4378c"}, "total": 129}}
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2020-11-10T02:19:39.48/select2/select2.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/css/:version:2020-11-10T02:19:39.45/main.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2020-11-10T02:19:39.48/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/ontario_theme/:version:2021-04-14T01:14:17.30/ontario_theme.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/ontario_theme_external/:version:2021-04-14T01:14:17.30/ontario_theme.css" />
+
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.8.6" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error 500 - Ontario Data Catalogue</title>
+
+    
+    <link rel="shortcut icon" href="/favicon.ico" />
+    
+  <script src="//www.webservices.gov.on.ca/metrics.js" type="text/javascript" charset="utf-8"></script>
+  
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK6PW9Z');</script>
+<!-- End Google Tag Manager -->  
+
+
+  
+  
+      
+    
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+  
+
+  
+
+
+    
+      
+      
+    
+    
+  </head>
+
+  
+  <body data-site-root="https://data.ontario.ca/" data-locale-root="https://data.ontario.ca/" >
+
+    
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK6PW9Z"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <a href="#content" class="skip-main sr-only sr-only-focusable">Skip to content</a> 
+
+
+  
+    
+
+ 
+  
+  
+    <header class="account-masthead">
+      <div class="container">
+        
+        <hgroup class="header-text-logo navbar-left">
+          <a class="logo" href="https://ontario.ca/"><img src="/logo-ontario@2x.png" alt="Government of Ontario" /></a>
+        </hgroup>
+        
+         
+          <nav class="account not-authed">
+            <ul class="list-unstyled">
+              
+                
+                
+                <li>
+                  
+
+
+
+
+<a href="/fr/api/3/action/datastore_search?resource_id=8a89caa9-511c-4568-af89-7f2174b4378c&amp;limit=1000" title="fr">
+  français
+</a>
+                </li>
+              
+            </ul>
+          </nav>
+         
+      </div>
+    </header>
+  
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" aria-expanded="false" type="button" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars" aria-hidden="true"></span>
+      </button>
+    </div>
+    <hgroup class="header-text-logo navbar-left">
+      
+  
+    
+    <a href="/">Data Catalogue</a>
+    
+    
+  
+
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+        <nav class="section navigation">
+          <ul class="list-inline">
+            
+              <li><a href="/dataset">Datasets</a></li><li><a href="/organization">Organizations</a></li><li><a href="/group">Groups</a></li><li><a href="/about">About</a></li><li><a href="/help">Help</a></li>
+            
+          </ul>
+        </nav> 
+      
+      
+        <form class="section site-search simple-input" action="/dataset" method="get">
+          <div class="field">
+            <label for="field-sitewide-search">Search Datasets</label>
+            <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Search" />
+            <button class="btn-search" type="submit" aria-label="Submit Search"><i class="fa fa-search" aria-hidden="true"></i><span class="sr-only">Submit Search</span></button>
+          </div>
+        </form>
+      
+    </div>
+  </div>
+</header>
+
+  <header id="survey">
+    <div class="alert alert-warning alert-clear alert-banner">
+      <div class="container">
+        
+        
+        
+        Tell us what you think about our data and how you’re using it. <a href="https://www.ontario.ca/form/survey-open-data-catalogue?page=/api/3/action/datastore_search%3Fresource_id%3D8a89caa9-511c-4568-af89-7f2174b4378c%26limit%3D1000" target="_blank">Take our survey</a>
+      </div>
+    </div>
+</header>
+
+  
+    <div role="main">
+      <div id="content" class="container">
+        
+  
+  
+  
+
+
+  
+    
+    
+            <div class="toolbar">
+              
+
+            </div>
+          
+  
+  
+
+  
+    
+  
+
+  <div class="row wrapper no-nav">
+    
+    
+    
+
+    
+
+    
+  <article class="module">
+    <div class="module-content">
+      Internal server error
+    </div>
+  </article>
+
+  </div>
+
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-7 footer-links">
+        
+          
+          <ul class="list-inline">
+            
+                <li><a href="https://www.ontario.ca/page/accessibility">accessibility</a></li>
+                <li><a href="https://www.ontario.ca/page/privacy-statement">privacy</a></li>
+                <li><a href="https://www.ontario.ca/page/terms-use">terms of use</a></li>
+            
+          </ul>
+          <p class="small">
+            <a href="https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario">&copy; Queen&#8217;s Printer for Ontario, 2012-21</a>
+          </p> 
+        
+        
+      </div>
+      <div class="col-md-2 footer-contactus">
+          
+          <strong>Contact Us</strong>    
+          <div>
+              <a class="btn btn-grey" href="https://www.ontario.ca/feedback/contact-us?id=33142&nid=138269">
+                <i class="material-icons">mail</i>
+                <i class="material-icons"> / </i>
+                <i class="material-icons">phone</i>
+              </a>
+          </div>
+      </div>
+      <div class="col-md-3 attribution">
+        
+          
+          <p><strong>Powered by</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org"><abbr title="Comprehensive Knowledge Archive Network">CKAN</abbr></a></p>
+        
+        
+        
+          <!-- snippet "snippets/language_selector.html" -->
+        
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+    
+  
+</footer>
+  
+    
+    
+    
+      
+    
+  
+    
+
+      
+  <script>document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2020-11-10T02:19:39.48/jquery.min.js"></script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2020-11-10T02:19:39.48/:bundle:bootstrap/js/bootstrap.min.js;jed.min.js;moment-with-locales.min.js;select2/select2.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2020-11-10T02:19:39.45/:bundle:plugins/jquery.inherit.min.js;plugins/jquery.proxy-all.min.js;plugins/jquery.url-helpers.min.js;plugins/jquery.date-helpers.min.js;plugins/jquery.slug.min.js;plugins/jquery.slug-preview.min.js;plugins/jquery.truncator.min.js;plugins/jquery.masonry.min.js;plugins/jquery.form-warning.min.js;plugins/jquery.images-loaded.min.js;sandbox.min.js;module.min.js;pubsub.min.js;client.min.js;notify.min.js;i18n.min.js;main.min.js;modules/select-switch.min.js;modules/slug-preview.min.js;modules/basic-form.min.js;modules/confirm-action.min.js;modules/api-info.min.js;modules/autocomplete.min.js;modules/custom-fields.min.js;modules/data-viewer.min.js;modules/table-selectable-rows.min.js;modules/resource-form.min.js;modules/resource-upload-field.min.js;modules/resource-reorder.min.js;modules/resource-view-reorder.min.js;modules/follow.min.js;modules/activity-stream.min.js;modules/dashboard.min.js;modules/resource-view-embed.min.js;view-filters.min.js;modules/resource-view-filters-form.min.js;modules/resource-view-filters.min.js;modules/table-toggle-more.min.js;modules/dataset-visibility.min.js;modules/media-grid.min.js;modules/image-upload.min.js;modules/followers-counter.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2020-11-10T02:19:39.45/tracking.min.js"></script>
+<script type="text/javascript" src="/fanstatic/ontario_theme/:version:2021-04-14T01:14:17.30/msappproxy.js"></script></body>
+</html>
